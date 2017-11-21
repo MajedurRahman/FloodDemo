@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "709885930282",
+    "firebase_url": "https://flooddemo-48fba.firebaseio.com",
+    "project_id": "flooddemo-48fba",
+    "storage_bucket": "flooddemo-48fba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709885930282:android:83c2a9991c0eed4f",
+        "android_client_info": {
+          "package_name": "com.mmr.meza.flooddemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709885930282-478vdfej3us8u7trffvq4bfpds7ihfbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mmr.meza.flooddemo",
+            "certificate_hash": "c1d847863a5e569d9294029cbe711366797a5ca3"
+          }
+        },
+        {
+          "client_id": "709885930282-pou1r4npm16m736r4iqq0ikfcnropf61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9F7l-8_xYaGnWKr3kGI6kUpxoFUNge4A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709885930282-pou1r4npm16m736r4iqq0ikfcnropf61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

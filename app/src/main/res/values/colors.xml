@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#3583E5</color>
+    <color name="colorAccent">#3280E4</color>
+    <color name="colorSun">#FFFCDD31</color>
+    <color name="colorAsphalt">#2c3e50</color>
+    <color name="colorAsphaltLight">#34495E</color>
+    <color name="colorAccent1">#FFFA676F</color>
+    <color name="colorCloudWhite">#ecf0f1</color>
+    <color name="colorSelect">#F2F1EF</color>
+    <color name="pink">#FFFA6175</color>
+    <color name="pinkText">#FFFA676F</color>
+    <color name="pinkOrange">#FFFB7A5E</color>
+    <color name="colorOrange">#F9690E</color>
+    <color name="colorOrangeLight">#FFFF8132</color>
+    <color name="colorRadicalRed">#ff2246</color>
+    <color name="colorRadicalRedLight">#F64747</color>
+    <color name="colorUnSelect">#E9D460</color>
+    <color name="colorNav">#FFFD1239</color>
+    <color name="sweetPink">#FFFA4A54</color>
+    <color name="onGreen">#00e661</color>
+    <color name="pinkRed">#e64a47</color>
+    <color name="yellowgreen">#beff5e</color>
+    <color name="colorPrimary1">#ffffff</color>
+    <color name="colorPrimaryDark2">#aaaaaa</color>
+    <color name="grey_lines">#22aaaaaa</color>
+    <color name="colorAccent2">#BDBDBD</color>
+    <color name="colorGreen">#8BC34A</color>
+    <color name="colorBlue">#03A9F4</color>
+</resources>
